@@ -1,0 +1,48 @@
+body{
+    font-family: arial;
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+p{
+    line-height: 2;
+}
+
+header{
+    background-image: url(./coffee-images-main/banner.jpg);
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+
+.btn-more{
+    display: inline-block;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-more-inf{
+    display: inline-block;
+    padding: 15px;
+    background-color: rgb(165, 81, 42);
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    justify-items: center;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+.ftr-btns{
+    color: white;
+    text-decoration: none;
+}
